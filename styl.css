@@ -1,0 +1,16 @@
+input {
+	float: center;
+	width: 150px;
+	/*margin: 0 12px 0 256px;*/
+	margin: 0 0 10px 10px;
+	padding-right: 10px;
+}
+
+label {
+	display: block;
+	margin 10px 0;
+	overflow: hidden;
+}
+img {
+	float: right;
+}
